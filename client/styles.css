@@ -1,0 +1,15 @@
+.task{
+    margin: auto;
+
+}
+
+.list{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.col-md-4{
+    margin-top: 2vh;
+}

@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var mongojs = require('mongojs');
-var db = mongojs('mongodb://robin:robin@ds113626.mlab.com:13626/meantodos', ['tasks']);
+var db = mongojs('mongodb://Wally93:619395@ds255715.mlab.com:55715/mean-task-manager', ['tasks']);
 
 
 // Get all the Tasks "List";
